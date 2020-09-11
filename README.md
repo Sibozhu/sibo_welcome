@@ -1,4 +1,4 @@
-### Welcome 👋
+### Welcome travelers👋
 
 Hey, I'm Sibo, research assistant at [MIT HAN Lab](https://songhan.mit.edu/), and perception lead at [MIT Driverless](https://driverless.mit.edu/).
 
